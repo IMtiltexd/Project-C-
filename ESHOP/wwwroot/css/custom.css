@@ -1,0 +1,25 @@
+/* custom.css */
+
+body {
+    background-color: whitesmoke; /* Оранжевый цвет фона */
+    color: black; /* Черный цвет текста */
+    font-family: 'Arial', sans-serif; /* Шрифт Arial */
+}
+
+.navbar {
+    background-color: darkgrey  !important; /* Оранжевый цвет navbar */
+}
+
+.navbar-nav .nav-item .nav-link {
+    color: black !important; /* Белый цвет текста navbar ссылок */
+    border-radius: 5%;
+}
+
+    .navbar-nav .nav-item .nav-link:hover {
+        background-color: #c4c4c4 !important; /* Желтый цвет при наведении на navbar ссылки */
+    }
+
+footer {
+    background-color: black;
+}
+
